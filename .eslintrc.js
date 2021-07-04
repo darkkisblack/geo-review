@@ -21,6 +21,7 @@ module.exports = {
     'no-caller': 'error',
     'no-control-regex': 'off',
     'no-var': 'error',
+    'endOfLine': 'auto',
     yoda: 'error',
     eqeqeq: ['error', 'smart'],
     'global-require': 'off',
